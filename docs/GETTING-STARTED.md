@@ -28,3 +28,13 @@ $ taro build --type weapp --watch
 # H5编译预览模式
 $ taro build --type h5 --watch
 ```
+
+项目打包
+
+```bash
+# 打包小程序代码
+$ taro build --type weapp
+
+# 打包H5代码
+$ taro build --type h5
+```
